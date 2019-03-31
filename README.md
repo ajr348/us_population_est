@@ -1,5 +1,5 @@
 # us_population_est
-from census.gov
+Estimates of the US by region, state, and territory
 
 
 Data from
